@@ -19,7 +19,6 @@ Created interactive visualisations and analytical dashboards to explore business
 
 🔗 **Live Dashboard:**
 - [Employment Data Dashboard](https://public.tableau.com/app/profile/novieta.hardeani.sari/viz/DashboardEmploymentDataUK/Dashboard1)
-- ![Employment Dashboard](https://raw.githubusercontent.com/novietahs-ID/My-Tableau-Projects/main/images/employment-dashboard.png)
 - [Top 10 Sub-Industry Analysis](https://public.tableau.com/app/profile/novieta.hardeani.sari/viz/DashboardEmployementDataUK-NovietaSari/Top10Sub-industry)
 
 ## 🔍 Skills Demonstrated
