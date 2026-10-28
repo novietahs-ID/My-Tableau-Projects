@@ -5,7 +5,6 @@
 Created interactive visualisations and analytical dashboards to explore business data and communicate insights effectively. Used visual storytelling techniques to highlight trends, customer behaviour, and operational performance.
 
 ## 📷 Dashboard Preview
- 
 ### Employment Data Dashboard
 
 ![Employment Dashboard](images/employment-dashboard.png)
