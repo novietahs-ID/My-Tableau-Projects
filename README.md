@@ -8,9 +8,12 @@ Created interactive visualisations and analytical dashboards to explore business
 ### Employment Data Dashboard
 
 ![Employment Dashboard](images/employment-dashboard.png)
+<img width="940" height="687" alt="image" src="https://github.com/user-attachments/assets/f568d096-861a-4d6a-9d15-4d433ae2a0d0" />
 
 🔗 Dashboard:
 [Employment Data Dashboard](https://public.tableau.com/app/profile/novieta.hardeani.sari/viz/DashboardEmploymentDataUK/Dashboard1)
+
+<img width="371" height="271" alt="image" src="https://github.com/user-attachments/assets/a01fd991-ce14-4fcc-a207-8de120089fd2" />
 
 ---
 
