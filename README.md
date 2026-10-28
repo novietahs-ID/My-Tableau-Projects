@@ -17,11 +17,9 @@ Created interactive visualisations and analytical dashboards to explore business
 
 ---
 
-### Top 10 Sub-Industry Analysis
-![Top 10 Sub-Industry Dashboard](images/top10-subindustry.png)
-
-🔗 Dashboard:
-[Top 10 Sub-Industry Analysis](https://public.tableau.com/app/profile/novieta.hardeani.sari/viz/DashboardEmployementDataUK-NovietaSari/Top10Sub-industry)
+🔗 **Live Dashboard:**
+- [Employment Data Dashboard](https://public.tableau.com/app/profile/novieta.hardeani.sari/viz/DashboardEmploymentDataUK/Dashboard1)
+- [Top 10 Sub-Industry Analysis](https://public.tableau.com/app/profile/novieta.hardeani.sari/viz/DashboardEmployementDataUK-NovietaSari/Top10Sub-industry)
 
 ## 🔍 Skills Demonstrated
 - Data Visualisation
